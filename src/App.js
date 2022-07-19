@@ -1,5 +1,5 @@
-import './App.css';
 import NavMenu from './components/NavMenu/NavMenu';
+import 'bootstrap/dist/css/bootstrap.css';
 
 function App() {
     return (
